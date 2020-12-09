@@ -16,3 +16,7 @@ Prerequisites:
 An Azure Automation account.
 
 An Office 365 user account to query license information and send email alerts.
+
+**Create the Azure Automation account**
+
+Go to portal.azure.com and search for "Automation Accounts"
