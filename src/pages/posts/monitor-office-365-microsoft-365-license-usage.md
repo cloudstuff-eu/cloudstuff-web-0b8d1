@@ -9,3 +9,10 @@ excerpt: Monitor available Office 365/Microsoft 365 licenses using Powershell an
   Azure Automation
 
 ---
+A script to monitor the number of available licenses in your Office 365 environment and generate email alerts when the licenses fall below a specified threshold.
+
+Prerequisites:
+
+An Azure Automation account.
+
+An Office 365 user account to query license information and send email alerts.
