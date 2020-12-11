@@ -6,8 +6,8 @@
   "header": {
     "type": "header",
     "template": "header",
-    "title": "Ampersand",
-    "logo_img": "images/logo.png",
+    "title": "CloudStuff.eu",
+    "logo_img": "/images/cover-1.jpg",
     "has_nav": true,
     "nav_links": [
       {
