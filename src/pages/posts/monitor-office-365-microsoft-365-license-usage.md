@@ -37,6 +37,8 @@ Click Create
 
 Go to the newly created Automation Account
 
+![](/images/screenshot-portal-azure-com-1608476623606.png)
+
 Under Shared Resources, click Credentials
 
 Click "Add Credential"
@@ -52,3 +54,7 @@ password
 confirm password
 
 Click Create
+
+![](/images/screenshot-portal-azure-com-1608477077768.png)
+
+The Script
