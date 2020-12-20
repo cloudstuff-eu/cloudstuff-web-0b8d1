@@ -82,3 +82,5 @@ You will be taken to the runbook editor page.
 Paste the powershell code and click save.
 
 Note: You can set the threshold to a higher number of your currently available licenses to trigger the alarm and verify the email alerts are working properly.
+
+Click "Test pane"
