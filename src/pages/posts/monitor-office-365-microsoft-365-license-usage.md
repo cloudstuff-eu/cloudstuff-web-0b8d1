@@ -20,3 +20,15 @@ An Office 365 user account to query license information and send email alerts.
 **Create the Azure Automation account**
 
 Go to portal.azure.com and search for "Automation Accounts"
+
+Click Add.
+
+Enter a name for the automation account
+
+Select a subscription and resource group
+
+Select a location
+
+Create Azure Run As Account: Yes (this will create a service principal with the contributor role in your subscription)
+
+Click Create
