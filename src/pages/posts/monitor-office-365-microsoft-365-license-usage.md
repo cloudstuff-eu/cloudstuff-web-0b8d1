@@ -32,3 +32,23 @@ Select a location
 Create Azure Run As Account: Yes (this will create a service principal with the contributor role in your subscription)
 
 Click Create
+
+**Store the Office 365 user account in Azure Automation**
+
+Go to the newly created Automation Account
+
+Under Shared Resources, click Credentials
+
+Click "Add Credential"
+
+Enter the following information:
+
+Name
+
+Username
+
+password
+
+confirm password
+
+Click Create
