@@ -58,3 +58,21 @@ Click Create
 ![](/images/screenshot-portal-azure-com-1608477077768.png)
 
 The Script
+
+Create a Runbook and Schedule
+
+Within the automation account, click Runbooks
+
+Click "Create a Runbook"
+
+Enter a name for the runbook and select PwerShell under runbook type.
+
+Click Create
+
+![](/images/screenshot-portal-azure-com-1608479713506.png)
+
+You will be taken to the runbook editor page.
+
+![](/images/screenshot-portal-azure-com-1608479843254.png)
+
+Paste the powershell code 
