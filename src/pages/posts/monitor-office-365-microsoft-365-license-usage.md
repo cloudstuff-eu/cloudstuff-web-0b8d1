@@ -59,6 +59,10 @@ Click Create
 
 The Script
 
+    ###sample powershell code
+    get-aduser -identity user1
+    
+
 Create a Runbook and Schedule
 
 Within the automation account, click Runbooks
